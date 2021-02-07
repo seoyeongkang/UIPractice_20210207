@@ -32,6 +32,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textSize="25sp"
             android:text="네번째 텍스트뷰"/>
 
         <TextView
